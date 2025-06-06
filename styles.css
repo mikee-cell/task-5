@@ -1,0 +1,1 @@
+body {\n    font-family: Arial, sans-serif;\n    background-color: #f4f4f4;\n    margin: 0;\n    padding: 20px;\n}\nheader {\n    background: #35424a;\n    color: white;\n    padding: 10px 0;\n    text-align: center;\n}\nmain {\n    margin: 20px 0;\n}\nfooter {\n    text-align: center;\n    margin-top: 20px;\n    font-size: 0.8em;\n}
