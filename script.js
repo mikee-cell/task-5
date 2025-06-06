@@ -1,0 +1,1 @@
+// This file can be used for future JavaScript needs.\n// Currently, there is no JavaScript functionality.
